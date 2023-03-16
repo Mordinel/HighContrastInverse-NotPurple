@@ -171,8 +171,8 @@
 
 <draw_ops name="title_gradient">
   <gradient type="diagonal" x="0" y="0" width="width-SpacerWidth" height="height">
-    <color value="#666699"/>
-    <color value="#666699"/>
+    <color value="#bbbbbb"/>
+    <color value="#bbbbbb"/>
   </gradient>
 </draw_ops>
 
